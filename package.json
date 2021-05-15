@@ -1,0 +1,19 @@
+{
+  "name": "devsecops-protobufs",
+  "version": "1.0.0",
+  "description": "Repo to hold protobufs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendrabagul/devsecops-protobufs.git"
+  },
+  "author": "mahendrabagul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendrabagul/devsecops-protobufs/issues"
+  },
+  "homepage": "https://github.com/mahendrabagul/devsecops-protobufs#readme"
+}
